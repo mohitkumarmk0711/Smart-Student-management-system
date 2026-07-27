@@ -109,3 +109,6 @@ src/
 | `attendance`  | studentId, date (`YYYY-MM-DD`), status (`present`\|`absent`\|`late`) |
 | `assignments` | title, description, dueDate, fileUrl, createdBy |
 | `marks`       | studentId, subject, term, score, grade |
+=======
+# Smart-Student-management-system
+>>>>>>> 3ea61ef087affa04b94a4f1f71084866267c4bfe
